@@ -1,0 +1,1 @@
+Note: the date format in the source data csv files is dd/mm/yyyy. If your date format is mm/dd/yyyy please watch this tutorial on how to convert the date to your locale: https://youtu.be/QKgS3hrrmvw
